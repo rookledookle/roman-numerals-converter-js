@@ -1,4 +1,5 @@
 ### Javascript Number to Roman Numeral Converter
+*Rails version: [Roman Numerals RSpec](https://github.com/natbatwat/roman-numerals-rspec)*
 ```javascript
 // General rules of conversion
 var romanObj = {
